@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - prathap452000@gmail.com.com
 
 Project Link: [https://github.com/Prathap452000/Humour_Conv_ai](https://github.com/Prathap452000/Humour_Conv_ai)
 
